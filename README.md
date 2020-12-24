@@ -1,5 +1,7 @@
 | GPU | CUDA Cores | Clock base [MHz] | Boost Clock [GHz] | Memória [GB] | Configuração |  Velocidade [Gbps] | Largura [bit] | Largura [GB/s] | Arquitetura | Fonte [W] |
 |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |  :---:   |
+| 3070 | 5.888 | 1.500 | 1.730 | 8 | GDDR6 |  | 256 |  | Ampere | 650 |
+| 3060 Ti | 4.864 | 1.410 | 1.670 | 8 | GDDR6 |  | 256 |  | Ampere | 600 |
 | 2080 Ti | 4.352 | 1.350 | 1.545 | 11 | GDDR6 | 14 | 352 | 616 | Pascal | 650 |
 | 1080 Ti | 3.584 | 1.582 |  | 11 | GDDR5X | 11 | 352 | 484 | Pascal | 600 |
 | 2080 | 2.944 | 1.515 | 1.710 | 8 | GDDR6 | 14 | 256 | 448 | Turing | 650 |
@@ -18,7 +20,8 @@
 <p>Referências</>
 
 <ul>
-<li></li>
+<li>https://www.nvidia.com/pt-br/geforce/graphics-cards/30-series/rtx-3070/</li>
+<li>https://www.nvidia.com/pt-br/geforce/graphics-cards/30-series/rtx-3060-ti/</li>
 <li>https://www.nvidia.com/pt-br/geforce/graphics-cards/rtx-2080-ti/</li>
 <li>https://www.nvidia.com/pt-br/geforce/products/10series/geforce-gtx-1080-ti/</li>
 <li>https://www.nvidia.com/pt-br/geforce/graphics-cards/rtx-2080/</li>
