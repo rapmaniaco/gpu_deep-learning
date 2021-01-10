@@ -1,3 +1,10 @@
+| GPU  | Preço | Data | Loja | Código |
+|   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |
+| 3060 Ti | 3.799 | 10/01/2020 | ITX Gamer | 36ISL6MD1WGG |
+| 2060 | 1.800 | 23/03/2020 | Pichau | 26NRL7HPX7OC |
+| 2060 | 1.642 | 21/12/2019 | Kabum | GV-N2060OC-6GD |
+| 1660 | 989,9 | 20/01/2020 | Pichau | 60SRH7DSY91C |
+
 | GPU | CUDA Cores | Clock base [MHz] | Boost Clock [GHz] | Memória [GB] | Configuração |  Velocidade [Gbps] | Largura [bit] | Largura [GB/s] | Arquitetura | Fonte [W] |
 |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |  :---:   |
 | 3070 | 5.888 | 1.500 | 1.730 | 8 | GDDR6 |  | 256 |  | Ampere | 650 |
